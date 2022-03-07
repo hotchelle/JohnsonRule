@@ -1,4 +1,4 @@
-//Name: Abdulla Sakallah                        Student ID: 1001846204
+//Name: Abdulla Sakallah                        
 
 //Complilation Instructions on Omega:-
 
